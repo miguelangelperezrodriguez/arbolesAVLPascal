@@ -7,43 +7,23 @@
       <Unit>
         <Filename Value="proarbolesequilibrados.lpr"/>
         <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
-        <TopLine Value="33"/>
-        <CursorPos X="11" Y="64"/>
-        <UsageCount Value="66"/>
+        <TopLine Value="35"/>
+        <CursorPos X="70" Y="62"/>
+        <UsageCount Value="67"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="tadavl.pas"/>
         <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
-        <TopLine Value="339"/>
-        <CursorPos X="18" Y="365"/>
-        <UsageCount Value="66"/>
+        <TopLine Value="340"/>
+        <CursorPos X="13" Y="373"/>
+        <UsageCount Value="67"/>
         <Loaded Value="True"/>
       </Unit>
     </Units>
     <JumpHistory HistoryIndex="29">
-      <Position>
-        <Filename Value="tadavl.pas"/>
-        <Caret Line="52" TopLine="31"/>
-      </Position>
-      <Position>
-        <Filename Value="tadavl.pas"/>
-        <Caret Line="60" TopLine="31"/>
-      </Position>
-      <Position>
-        <Filename Value="tadavl.pas"/>
-        <Caret Line="61" TopLine="31"/>
-      </Position>
-      <Position>
-        <Filename Value="tadavl.pas"/>
-        <Caret Line="47" TopLine="31"/>
-      </Position>
-      <Position>
-        <Filename Value="tadavl.pas"/>
-        <Caret Line="48" TopLine="31"/>
-      </Position>
       <Position>
         <Filename Value="tadavl.pas"/>
         <Caret Line="41" TopLine="31"/>
@@ -143,6 +123,26 @@
       <Position>
         <Filename Value="tadavl.pas"/>
         <Caret Line="31" Column="78"/>
+      </Position>
+      <Position>
+        <Filename Value="proarbolesequilibrados.lpr"/>
+        <Caret Line="69" Column="56" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="tadavl.pas"/>
+        <Caret Line="369" Column="9" TopLine="337"/>
+      </Position>
+      <Position>
+        <Filename Value="proarbolesequilibrados.lpr"/>
+        <Caret Line="61" Column="81" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="tadavl.pas"/>
+        <Caret Line="371" TopLine="338"/>
+      </Position>
+      <Position>
+        <Filename Value="tadavl.pas"/>
+        <Caret Line="368" Column="12" TopLine="340"/>
       </Position>
     </JumpHistory>
     <RunParams>

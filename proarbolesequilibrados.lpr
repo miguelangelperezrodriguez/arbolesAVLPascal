@@ -67,7 +67,7 @@ begin
 
   dato:=0;
   menordato(arbol_prov_extension,descripcion,dato);
-  Writeln ('Mayor dato : ' + descripcion + ' . : ' + IntToStr(dato));
+  Writeln ('Menor dato : ' + descripcion + ' . : ' + IntToStr(dato));
 
 
 end.

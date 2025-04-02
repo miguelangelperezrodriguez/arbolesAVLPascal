@@ -353,25 +353,26 @@ implementation
           begin
             descrip:=a^.de;
             dato:=a^.info;
+            Exit;
           end;
-        mayordato (a^.izq,descrip,dato);
+        //mayordato (a^.izq,descrip,dato);
       end;
   end;
 
   procedure menordato (a : arbol; var descrip : string;  var dato : LongInt);
   begin
-    if not vacio(a) then
-      begin
-        menordato (a^.der,descrip,dato);
-        if (a^.info<dato) or (dato=0) then
-          begin
-            descrip:=a^.de;
-            dato:=a^.info;
-          end;
-        menordato (a^.izq,descrip,dato);
-      end;
+      if not vacio(a) then
+        begin
+          menordato (a^.izq,descrip,dato);
+          if (a^.info<dato) or (dato=0) then
+            begin
+              descrip:=a^.de;
+              dato:=a^.info;
+              Exit;
+            end;
+          //menordato (a^.der,descrip,dato);
+        end;
   end;
-
 
 end.
 
