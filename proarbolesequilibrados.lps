@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="proarbolesequilibrados.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="33"/>
+        <CursorPos X="11" Y="64"/>
+        <UsageCount Value="66"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="tadavl.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="339"/>
+        <CursorPos X="18" Y="365"/>
+        <UsageCount Value="66"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="tadavl.pas"/>
+        <Caret Line="52" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="tadavl.pas"/>
+        <Caret Line="60" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="tadavl.pas"/>
+        <Caret Line="61" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="tadavl.pas"/>
+        <Caret Line="47" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="tadavl.pas"/>
+        <Caret Line="48" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="tadavl.pas"/>
+        <Caret Line="41" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="tadavl.pas"/>
+        <Caret Line="42" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="tadavl.pas"/>
+        <Caret Line="43" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="tadavl.pas"/>
+        <Caret Line="49" Column="34" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="tadavl.pas"/>
+        <Caret Line="60" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="tadavl.pas"/>
+        <Caret Line="61" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="tadavl.pas"/>
+        <Caret Line="47" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="tadavl.pas"/>
+        <Caret Line="48" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="tadavl.pas"/>
+        <Caret Line="41" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="tadavl.pas"/>
+        <Caret Line="42" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="tadavl.pas"/>
+        <Caret Line="43" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="tadavl.pas"/>
+        <Caret Line="49" Column="11" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="proarbolesequilibrados.lpr"/>
+        <Caret Line="26"/>
+      </Position>
+      <Position>
+        <Filename Value="proarbolesequilibrados.lpr"/>
+        <Caret Line="28"/>
+      </Position>
+      <Position>
+        <Filename Value="proarbolesequilibrados.lpr"/>
+        <Caret Line="29"/>
+      </Position>
+      <Position>
+        <Filename Value="proarbolesequilibrados.lpr"/>
+        <Caret Line="25" Column="47"/>
+      </Position>
+      <Position>
+        <Filename Value="proarbolesequilibrados.lpr"/>
+        <Caret Line="57" Column="52" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="tadavl.pas"/>
+        <Caret Line="339" Column="29" TopLine="310"/>
+      </Position>
+      <Position>
+        <Filename Value="tadavl.pas"/>
+        <Caret Line="342" Column="45" TopLine="310"/>
+      </Position>
+      <Position>
+        <Filename Value="tadavl.pas"/>
+        <Caret Line="340" Column="46" TopLine="308"/>
+      </Position>
+      <Position>
+        <Filename Value="tadavl.pas"/>
+        <Caret Line="342" Column="22" TopLine="308"/>
+      </Position>
+      <Position>
+        <Filename Value="tadavl.pas"/>
+        <Caret Line="347" Column="5" TopLine="310"/>
+      </Position>
+      <Position>
+        <Filename Value="tadavl.pas"/>
+        <Caret Line="352" Column="38" TopLine="324"/>
+      </Position>
+      <Position>
+        <Filename Value="tadavl.pas"/>
+        <Caret Line="366" Column="38" TopLine="335"/>
+      </Position>
+      <Position>
+        <Filename Value="tadavl.pas"/>
+        <Caret Line="31" Column="78"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
